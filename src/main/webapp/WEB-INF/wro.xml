@@ -1,0 +1,7 @@
+<groups xmlns="http://www.isdc.ro/wro">
+   
+  <group name="test">
+    <js>classpath:static/**.wildcard.js</js>
+  </group>
+    
+</groups>
